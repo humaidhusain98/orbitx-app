@@ -7,14 +7,20 @@ Real multi-chain transaction data is fetched from **Alchemy RPC**.
 ---
 
 ## Table of Contents
+- [Getting Started](#getting-started)
 - [Architecture & Component Structure](#architecture--component-structure)
 - [Technology Choices & Justifications](#technology-choices--justifications)
 - [Configuration](#configuration)
 - [Assumptions & Tradeoffs](#assumptions--tradeoffs)
 - [Known Limitations & Future Improvements](#known-limitations--future-improvements)
-- [Getting Started](#getting-started)
+
 
 ---
+## Getting Started
+- clone the repo
+- in root folder run "npm install" in terminal
+- to start development server run "npm run dev" in terminal
+- to start production server run "npm run build" and then use "npm start" in terminal
 
 ## Architecture & Component Structure
 
